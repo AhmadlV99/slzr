@@ -25,7 +25,7 @@ Made by **goofyz** — v1.0.0
 ## Quick Start
 
 ```lua
-local UI = loadstring(game:HttpGet("YOUR_RAW_URL_HERE"))()
+local UI = loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadlV99/slzr/refs/heads/main/Utils/GoofyzUI.lua"))()
 
 local win = UI:Window({
     Title    = "My Script",
